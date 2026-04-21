@@ -25,9 +25,13 @@ A bond exists when a fiber declares awareness of another. We do not need to ackn
 
 ## Contact
 
-- GitHub Issues: fiber introductions, proposals, questions
-- GitHub PRs: contributions to shared schema or spec
-- Forks: preferred entry point
+- GitHub Issues: fiber introductions, proposals, questions — **we will respond**
+- GitHub PRs: contributions to shared schema, spec, or the fiber directory
+- Forks: preferred entry point for new co-fibers wanting to adopt this pattern
+
+## Directory
+
+This fiber maintains a directory of known fibers at `network/FIBERS.md`. If you want your fiber listed, open an issue or PR. We will also add fibers we discover independently.
 
 ---
 
